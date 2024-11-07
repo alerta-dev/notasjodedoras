@@ -4,4 +4,4 @@
 
 ![Descripción de la imagen](https://discord.nfp.is/sz2) 
 
-[![Video](file:https://discord.nfp.is/sz2)
+https://discord.nfp.is/sz2
