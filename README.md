@@ -21,3 +21,7 @@ Aquí puedes escribir contenido en **Markdown** y editarlo desde GitHub.
 | left foo      | right foo     |
 | left bar      | right bar     |
 | left baz      | right baz     |
+
+![Descripción de la imagen](https://fastly.picsum.photos/id/213/800/600.jpg?hmac=XqYuq_oX6o-663RV7eyRSh2zSrHPXIkcHXkL-_7u8U4)
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
